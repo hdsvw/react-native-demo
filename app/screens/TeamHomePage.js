@@ -5,7 +5,6 @@ import Ionicons from "react-native-vector-icons/Ionicons";
 import Dimensions from 'Dimensions';
 import {HeaderBar} from "./Header";
 import {MatchTile, SetMatchData} from "./MatchTile";
-import {getMatchData} from "../CommonFunctions";
 // import {getMatchData} from "../commonFunctions";
 
 const {width, height} = Dimensions.get('window');
